@@ -3,9 +3,9 @@
 
 ## PCB设计
 
-![原理图](.\Pictures\原理图.png)
+![原理图](/Pictures/原理图.png)
 
-![PCB——3d](.\Pictures\PCB——3d.png)
+![PCB——3d](./Pictures/PCB——3d.png)
 
 ![PCB——3d2](.\Pictures\PCB——3d2.png)
 
